@@ -1,3 +1,3 @@
-# joeoregan.github.io
+# joeoregan.github.io/projects
 
-Project Portfolio [here](https://joeoregan.github.io/)
+Project Portfolio [here](https://joeoregan.github.io/projects)
